@@ -1,0 +1,13 @@
+[run]
+
+omit =
+    *apps.py
+    *birdie/__init__.py 
+    *migrations/*,  
+    *settings*,
+    *tests/*,
+    *urls.py,
+    *wsgi.py
+    *testsed/asgi.py
+    *testsed/__init__.py
+    *manage.py
